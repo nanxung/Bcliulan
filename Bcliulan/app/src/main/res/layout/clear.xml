@@ -1,0 +1,9 @@
+<com.once.android_ui.selfview.ClearEditText android:id="@+id/user_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawablePadding="7dp"
+    android:singleLine="true"
+    android:textSize="17sp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <requestFocus />
+</com.once.android_ui.selfview.ClearEditText>
